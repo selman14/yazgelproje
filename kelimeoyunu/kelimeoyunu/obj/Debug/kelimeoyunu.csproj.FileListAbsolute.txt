@@ -1,0 +1,13 @@
+C:\Users\asus.LAPTOP-SMDU8F43\source\repos\kelimeoyunu\kelimeoyunu\bin\Debug\kelimeoyunu.exe.config
+C:\Users\asus.LAPTOP-SMDU8F43\source\repos\kelimeoyunu\kelimeoyunu\bin\Debug\kelimeoyunu.exe
+C:\Users\asus.LAPTOP-SMDU8F43\source\repos\kelimeoyunu\kelimeoyunu\bin\Debug\kelimeoyunu.pdb
+C:\Users\asus.LAPTOP-SMDU8F43\source\repos\kelimeoyunu\kelimeoyunu\obj\Debug\kelimeoyunu.csprojAssemblyReference.cache
+C:\Users\asus.LAPTOP-SMDU8F43\source\repos\kelimeoyunu\kelimeoyunu\obj\Debug\kelimeoyunu.Form1.resources
+C:\Users\asus.LAPTOP-SMDU8F43\source\repos\kelimeoyunu\kelimeoyunu\obj\Debug\kelimeoyunu.Properties.Resources.resources
+C:\Users\asus.LAPTOP-SMDU8F43\source\repos\kelimeoyunu\kelimeoyunu\obj\Debug\kelimeoyunu.csproj.GenerateResource.cache
+C:\Users\asus.LAPTOP-SMDU8F43\source\repos\kelimeoyunu\kelimeoyunu\obj\Debug\kelimeoyunu.csproj.CoreCompileInputs.cache
+C:\Users\asus.LAPTOP-SMDU8F43\source\repos\kelimeoyunu\kelimeoyunu\obj\Debug\kelimeoyunu.exe
+C:\Users\asus.LAPTOP-SMDU8F43\source\repos\kelimeoyunu\kelimeoyunu\obj\Debug\kelimeoyunu.pdb
+C:\Users\asus.LAPTOP-SMDU8F43\source\repos\kelimeoyunu\kelimeoyunu\obj\Debug\kelimeoyunu.UserControl1.resources
+C:\Users\asus.LAPTOP-SMDU8F43\source\repos\kelimeoyunu\kelimeoyunu\obj\Debug\kelimeoyunu.Form2.resources
+C:\Users\asus.LAPTOP-SMDU8F43\source\repos\kelimeoyunu\kelimeoyunu\obj\Debug\kelimeoyunu.soruekle.resources
